@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
+streamlit==1.24.1
+matplotlib==
